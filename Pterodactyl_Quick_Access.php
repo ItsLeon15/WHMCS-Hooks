@@ -6,8 +6,8 @@
  *
  * @package     WHMCS
  * @copyright   ItsLeon15
- * @link        https://www.platinumhost.xyz
- * @author      Leon <leon@platinumhost.xyz>
+ * @link        https://www.platinumhost.io
+ * @author      Leon <leon@platinumhost.io>
  */
 
 add_hook('AdminClientServicesTabFields', 1, function ($vars) {
