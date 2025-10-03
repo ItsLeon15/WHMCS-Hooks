@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Adds the option to view Credit Balance in WHMCS (Client View - https://i.imgur.com/C3imJc7.png)
+ * Adds the option to view Credit Balance in WHMCS - Client View
  *
  * @package     WHMCS
  * @copyright   ItsLeon15
- * @link        https://www.platinumhost.xyz
- * @author      Leon <leon@platinumhost.xyz>
+ * @link        https://www.platinumhost.io
+ * @author      Leon <leon@platinumhost.io>
  */
 
 use WHMCS\View\Menu\Item as MenuItem;
