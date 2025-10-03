@@ -5,8 +5,8 @@
  *
  * @package     WHMCS
  * @copyright   ItsLeon15
- * @link        https://www.platinumhost.xyz
- * @author      Leon <leon@platinumhost.xyz>
+ * @link        https://www.platinumhost.io
+ * @author      Leon <leon@platinumhost.io>
  */
 
 use WHMCS\Database\Capsule;
